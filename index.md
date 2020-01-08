@@ -9,6 +9,9 @@ In my research, I am interested in developing more intelligent meta-learning alg
 
 [Curriculum vitae](./assets/Sean_Hendryx_CV.pdf) ~ [github](https://github.com/SMHendryx) ~ [linkedin](https://www.linkedin.com/in/sean-hendryx-43894056/)
 
+## News
+ - Invited to give a keynote speech at Deep Learning World 2020 on my work at Standard Cognition on developing and managing the complexity of multi-model systems at scale. [See here for more info.](https://www.deeplearningworld.com/las-vegas/2020/agenda/#session78711)
+
 ## Publications
 1.  Sean M Hendryx, Andrew B Leach, Paul D Hein, and Clayton T. Morrison. Meta-learning initializations for image segmentation. _arXiv preprint_ [https://arxiv.org/abs/1912.06290](https://arxiv.org/abs/1912.06290), 2019.
 2.  Enrique Noriega-Atala, Paul Douglas Hein, Shraddha Satish S Thumsi, Zechy Wong,
