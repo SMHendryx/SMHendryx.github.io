@@ -2,15 +2,13 @@
 layout: default
 ---
 
-I currently research and develop deep learning systems for multi-camera, machine vision problems at [Standard Cognition](https://standard.ai/). I have mainly been focused on model training automation and transfer learning and domain adaptation systems for reducing generalization error in production. 
+I currently research and develop deep learning systems for multi-camera, machine vision problems at [Standard Cognition](https://standard.ai/). At Standard, I have worked on model training automation, transfer learning, domain adaptation, metrics development, hard mining, and model robustness. Above all, I have been obsessed with reducing generalization error in production. 
 
-In my research, I am interested in developing more intelligent meta-learning algorithms and bounds on their generalization and optimality. On longer term topics in AI, I am interested in models that can develop explanations, introspect their own uncertainty, and communicate with people. It is my hope that research into these lines of inquiry elucidates fundamental properties on the nature of intelligence.
+In my research, I'm interested in technologies that can self-improve, collaborate with people, and improve human well-being. In particular, I maintain active interest in meta-learning and computational sustainability. I am also a designated colleague of the [ML4AI lab](https://ml4ai.github.io/) at the University of Arizona with Dr. Clayton Morrison.
 
 
 [Curriculum vitae](./assets/Sean_Hendryx_CV.pdf) ~ [github](https://github.com/SMHendryx) ~ [linkedin](https://www.linkedin.com/in/sean-hendryx-43894056/)
 
-## News
- - Invited to give a keynote speech at Deep Learning World 2020 on my work at Standard Cognition on developing and managing the complexity of multi-model systems at scale! [See here for more info.](https://www.deeplearningworld.com/las-vegas/2020/agenda/#session78711)
 
 ## Publications
 1.  Sean M Hendryx, Andrew B Leach, Paul D Hein, and Clayton T. Morrison. Meta-learning initializations for image segmentation. _arXiv preprint_ [https://arxiv.org/abs/1912.06290](https://arxiv.org/abs/1912.06290), 2019.
@@ -31,3 +29,6 @@ ecosystem: An experimental and modeling synthesis. _Water Resources Research_,
 Hendryx, Esther Lee, Leland F Sutter, Newton Tran, Elizabeth Parra, Tony Colella,
 Patrick C Murphy, et al. Impacts of hydraulic redistribution on grass–tree competition
 vs facilitation in a semi-arid savanna. _New Phytologist_, 215(4):1451–1461, 2017.
+
+## Talks
+ - Keynote speech at Deep Learning World 2020. [Continual Progress in Cascading Model Systems by Ensuring Reproducible State](https://www.deeplearningworld.com/las-vegas/2020/agenda/#session78711)
