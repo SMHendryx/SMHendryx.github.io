@@ -7,7 +7,8 @@ I currently research and develop deep learning systems at [Standard Cognition](h
 In my research, I'm interested in technologies that can self-improve, collaborate with people, and improve human well-being. In particular, I maintain active interest in meta-learning and computational sustainability. I am also an affiliated researcher with the [ML4AI lab](https://ml4ai.github.io/) at the University of Arizona with Dr. Clayton Morrison.
 
 
-[Curriculum vitae](./assets/Sean_Hendryx_CV.pdf) ~ [github](https://github.com/SMHendryx) ~ [linkedin](https://www.linkedin.com/in/sean-hendryx-43894056/)
+[Curriculum vitae](./assets/Sean_Hendryx_CV.pdf) ~ [github](https://github.com/SMHendryx) ~ [linkedin](https://www.linkedin.com/in/sean-hendryx-43894056/) ~ [Google Scholar](https://scholar.google.com/citations?hl=en&user=BFyfAV4AAAAJ)
+
 
 
 ## Publications
@@ -29,8 +30,6 @@ ecosystem: An experimental and modeling synthesis. _Water Resources Research_,
 Hendryx, Esther Lee, Leland F Sutter, Newton Tran, Elizabeth Parra, Tony Colella,
 Patrick C Murphy, et al. Impacts of hydraulic redistribution on grass–tree competition
 vs facilitation in a semi-arid savanna. _New Phytologist_, 215(4):1451–1461, 2017.
-
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=BFyfAV4AAAAJ)
 
 ## Talks
  - Presented Meta-Learning Initializations for Image Segmentation at the NeurIPS 2020 Meta-Learning Workshop. [https://meta-learn.github.io/2020/](https://meta-learn.github.io/2020/)
