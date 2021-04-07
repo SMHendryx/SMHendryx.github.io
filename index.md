@@ -12,25 +12,29 @@ In my research, I'm interested in technologies that can self-improve, collaborat
 
 
 ## Publications
-1.  Sean M Hendryx, Andrew B Leach, Paul D Hein, and Clayton T. Morrison. Meta-learning initializations for image segmentation. _NeurIPS Meta-Learning Workshop_. [https://meta-learn.github.io/2020/papers/44_paper.pdf](https://meta-learn.github.io/2020/papers/44_paper.pdf), 2020.
-2.  Enrique Noriega-Atala, Paul Douglas Hein, Shraddha Satish S Thumsi, Zechy Wong,
+1.  Pratima Khatri-Chhetri, Sean M Hendryx, Kyle A Hartfield, Michael A Crimmins, Willem J D van Leeuwen, and Van R Kane. Assessing Vegetation Response to Multi-Scalar Drought across the Mojave, Sonoran, Chihuahuan Deserts and Apache Highlands in the Southwest United States. Remote Sensing. [https://www.mdpi.com/2072-4292/13/6/1103](https://www.mdpi.com/2072-4292/13/6/1103), 2021.
+2.  Sean M Hendryx, Andrew B Leach, Paul D Hein, and Clayton T. Morrison. Meta-learning initializations for image segmentation. _NeurIPS Meta-Learning Workshop_. [https://meta-learn.github.io/2020/papers/44_paper.pdf](https://meta-learn.github.io/2020/papers/44_paper.pdf), 2020.
+3.  Enrique Noriega-Atala, Paul Douglas Hein, Shraddha Satish S Thumsi, Zechy Wong,
 Xia Wang, Sean Michael Hendryx, and Clayton Thomas Morrison. Extracting intersentence relations for associating biological context with events in biomedical text.
 _IEEE/ACM transactions on computational biology and bioinformatics_, 2019.
-3. Sean M Hendryx. Assign points to existing clusters: An algorithm for labeling
+4. Sean M Hendryx. Assign points to existing clusters: An algorithm for labeling
 clustered point cloud datasets for predicting physical variables. In _AGU Fall Meeting
 Abstracts_, 2018.
-4. Sean Michael Hendryx. Quantifying biomass from point clouds by connecting representations of ecosystem structure. Thesis published by _The University of Arizona_.
+5. Sean Michael Hendryx. Quantifying biomass from point clouds by connecting representations of ecosystem structure. Thesis published by _The University of Arizona_.
 [https://repository.arizona.edu/handle/10150/627688](https://repository.arizona.edu/handle/10150/627688), 2017.
-5. Esther Lee, Praveen Kumar, Greg A Barron-Gafford, Sean M Hendryx, Enrique P
+6. Esther Lee, Praveen Kumar, Greg A Barron-Gafford, Sean M Hendryx, Enrique P
 Sanchez-Cañete, Rebecca L Minor, Tony Colella, and Russell L Scott. Impact of
 hydraulic redistribution on multispecies vegetation water use in a semiarid savanna
 ecosystem: An experimental and modeling synthesis. _Water Resources Research_,
 54(6):4009–4027, 2018.
-6. Greg A Barron-Gafford, Enrique P Sanchez-Cañete, Rebecca L Minor, Sean M
+7. Greg A Barron-Gafford, Enrique P Sanchez-Cañete, Rebecca L Minor, Sean M
 Hendryx, Esther Lee, Leland F Sutter, Newton Tran, Elizabeth Parra, Tony Colella,
 Patrick C Murphy, et al. Impacts of hydraulic redistribution on grass–tree competition
 vs facilitation in a semi-arid savanna. _New Phytologist_, 215(4):1451–1461, 2017.
 
-## Talks
- - Presented Meta-Learning Initializations for Image Segmentation at the NeurIPS 2020 Meta-Learning Workshop. [https://meta-learn.github.io/2020/](https://meta-learn.github.io/2020/)
- - Keynote speech at Deep Learning World 2020. [Continual Progress in Cascading Model Systems by Ensuring Reproducible State](https://www.deeplearningworld.com/las-vegas/2020/agenda/#session78711)
+## Presentations
+ - **Federated Reconnaissance: A New Framework for Distributed Continual Learning**. Autonomy and Edge Computing session at the Fifth Annual [Workshop on Naval Applications of Machine Learning](https://sites.google.com/go.spawar.navy.mil/naml) (NAML 2021).
+ - **Balancing Machine Learning Innovation and Scalability in Fast Growing Startups**. Guest lecture in the Winter 2021 graduate course *Machine Learning: Special Topics*
+ taught by Dr. Paul J. Atzberger at University of California Santa Barbara.
+ - **Meta-Learning Initializations for Image Segmentation**. NeurIPS 2020 Meta-Learning Workshop. [https://meta-learn.github.io/2020/](https://meta-learn.github.io/2020/)
+ - **[Continual Progress in Cascading Model Systems by Ensuring Reproducible State](https://www.deeplearningworld.com/las-vegas/2020/agenda/#session78711)**. Keynote speech at Deep Learning World 2020. 
