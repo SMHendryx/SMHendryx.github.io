@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I currently research and develop deep learning systems at [Standard Cognition](https://standard.ai/). At Standard, I have worked on model training automation, transfer learning, domain adaptation, metrics development, hard mining, and model robustness. Above all, I have been obsessed with reducing generalization error in production. 
+I currently research and develop deep learning systems at [Standard Cognition](https://standard.ai/). At Standard, I have worked on video action recognition research, model training automation, transfer learning, domain adaptation, metrics development, hard mining, and model robustness. Above all, I have been obsessed with reducing generalization error in production. 
 
 In my research, I'm interested in technologies that can self-improve, collaborate with people, and improve human well-being. In particular, I maintain active interest in meta-learning and computational sustainability. I am also an affiliated researcher with the [ML4AI lab](https://ml4ai.github.io/) at the University of Arizona with Dr. Clayton Morrison.
 
