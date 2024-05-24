@@ -10,6 +10,7 @@ Previously, I researched and developed deep learning systems at [Standard Cognit
 
 I double mastered at the University of Arizona, focusing on machine learning and remote sensing, respectively. During that time, I was a researcher with the [ML4AI lab](https://ml4ai.github.io/) in the School of Information. I was advised by Dr. Clayton Morrison and Dr. Greg Barron-Gafford.
 
+I completed my Bachelor of Science in Environmental Science with Dr. Andy Bunn at Western Washington University focusing on energy & climate modeling through the College of Environment. I was one of the first students to complete the degree with Dr. Bunn which later became the official [B.S in Energy Science and Technology](https://energy.wwu.edu/bs-energy-science-and-technology). After undergrad, I spent a few years working as an energy analyst in the construction industry while completing post-baccalaureate studies in computer science and studying machine learning, after which point I enrolled in the University of Arizona.
 
 [//]: # "[Curriculum vitae](./assets/Sean_Hendryx_CV.pdf)"
 [personal github](https://github.com/SMHendryx) ~ [linkedin](https://www.linkedin.com/in/sean-hendryx-43894056/) ~ [Scale AI github](https://github.com/hendryx-scale)
