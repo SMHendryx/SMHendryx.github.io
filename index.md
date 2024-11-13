@@ -11,7 +11,7 @@ Previously, I researched and developed deep learning systems at [Standard Cognit
 I double mastered at the University of Arizona, focusing on machine learning and remote sensing, respectively. During that time, I was a researcher with the [ML4AI lab](https://ml4ai.github.io/) in the School of Information. I was advised by Dr. Clayton Morrison and Dr. Greg Barron-Gafford.
 
 [//]: # "[Curriculum vitae](./assets/Sean_Hendryx_CV.pdf)"
-[personal github](https://github.com/SMHendryx) ~ [linkedin](https://www.linkedin.com/in/sean-hendryx-43894056/) ~ [Scale AI github](https://github.com/hendryx-scale)
+[X](https://x.com/SeanHendryx) ~ [personal github](https://github.com/SMHendryx) ~ [linkedin](https://www.linkedin.com/in/sean-hendryx-43894056/) ~ [Scale AI github](https://github.com/hendryx-scale)
 
 
 
