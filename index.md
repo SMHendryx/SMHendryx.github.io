@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I currently work on the TBD team at Meta Superintelligence Labs where I'm helping models understand reality. I've led the efforts to make Muse models more factual with fewer hallucinations.
+I currently work on the TBD team at Meta Superintelligence Labs where I'm helping models understand reality. I've led the efforts to make Muse models more factual and hallucinate less, with core contributions to Muse Spark 1.0, 1.1, 1.2, 1.3, the Muse agent app, and newer models in development.
 
 My career goal is to understand intelligence and apply it towards improved human well-being. Towards this end, since 2015 I have been interested in studying systems that learn faster and are more reliable with work on [meta-learning](https://meta-learn.github.io/2020/papers/44_paper.pdf), [joint training](https://scale.com/blog/afm1), [online learning](https://neurips2021workshopfl.github.io/NFFL-2021/papers/2021/Hendryx2021.pdf), improved calibration [[1](https://arxiv.org/abs/2311.14743), [2](https://arxiv.org/abs/2401.12129)] and [RL](https://x.com/SeanHendryx/status/1937224478351851764). Generally, I'm interested in technologies that can self-improve and collaborate with people.
 
